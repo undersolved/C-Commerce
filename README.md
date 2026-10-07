@@ -5,7 +5,7 @@
 [![Tailwind CSS](https://img.shields.io/badge/Styling-Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
 [![SQLite](https://img.shields.io/badge/Database-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)](https://www.sqlite.org/)
 
-**C Commerce** is a sleek, full-stack e-commerce application designed with a "Spotify Blue" aesthetic. It features a glassmorphic UI, dynamic product catalog, persistent shopping cart, and a robust admin dashboard.
+**C Commerce** is a sleek, full-stack e-commerce application designed featuring a glassmorphic UI, dynamic product catalog, persistent shopping cart, and a robust admin dashboard.
 
 ---
 
@@ -145,4 +145,4 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ---
 
-*Built with ❤️ by the C Commerce Team.*
+*Built with ❤️ by the Bhupendra S Hapawat.*
